@@ -1,4 +1,4 @@
 # project_demo
 this is my first git repository.
 <br>
-Author-Dhruv Patel
+Author-Dhruv Chandra Patel
